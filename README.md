@@ -15,7 +15,7 @@ The overall purpose of this election audit analysis is to help the Colorado Boar
 Some important metrics identified in this election audit analysis are listed and analyzed below, with an image showing a summary of all discussed results displayed:
 
 	◦	A total of 369,711 votes were cast in the election.
-	◦	The breakdown of results by county showing the number of votes, and percentage of votes for each county are listed below:
+	◦	The breakdown of results by county showing the number of votes, and percentage of votes for each county is listed below:
 	•		Jefferson produced 10.5% of the voters, for a total of 38,855 votes
 	•		Denver produced 82.8% of the voters, for a total of 306,055 votes
 	•		Arapahoe produced 6.7% of the voters, for a total of 24,801 votes
