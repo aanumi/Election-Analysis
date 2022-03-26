@@ -16,18 +16,17 @@ Some important metrics identified in this election audit analysis are listed and
 
 	◦	A total of 369,711 votes were cast in the election.
 	◦	The breakdown of results by county showing the number of votes, and percentage of votes for each county are listed below:
-	•	Jefferson produced 10.5% of the voters, for a total of 38,855 votes
-	•	Denver produced 82.8% of the voters, for a total of 306,055 votes
-	•	Arapahoe produced 6.7% of the voters, for a total of 24,801 votes
+	•		Jefferson produced 10.5% of the voters, for a total of 38,855 votes
+	•		Denver produced 82.8% of the voters, for a total of 306,055 votes
+	•		Arapahoe produced 6.7% of the voters, for a total of 24,801 votes
 	◦	The county with the largest number of votes was Denver. It represented 82.8% of the voters, which was a total of 306,055 votes
 	◦	A breakdown of the results by candidate percentages, total votes and other metrics is listed below:
-	•	Charles Casper Stockham received 23.0% of the votes, for a total of 85,213 votes
-	•	Diana DeGette received 73.8% of the votes, for a total of 272,892 votes
-	•	Raymon Anthony Doane received 3.1% of the votes, for a total of 11,606 votes
+	•		Charles Casper Stockham received 23.0% of the votes, for a total of 85,213 votes
+	•		Diana DeGette received 73.8% of the votes, for a total of 272,892 votes
+	•		Raymon Anthony Doane received 3.1% of the votes, for a total of 11,606 votes
 	◦	The winner of the election was Diana DeGette, who received a total of 272,892 votes, which represented 73.8% of all votes.
 <img width="384" alt="Screen Shot 2022-03-26 at 2 51 51 PM" src="https://user-images.githubusercontent.com/100884241/160253224-10170d2a-656f-4722-8049-6adc871a3fc6.png">
 
-￼
 
 
 ## ELECTION AUDIT SUMMARY
