@@ -1,7 +1,7 @@
-# WRITTEN ANALYSIS OF THE ELECTION ANALYSIS AUDIT
+# WRITTEN ANALYSIS OF THE ELECTION AUDIT ANALYSIS
 
 ## OVERVIEW OF ELECTION AUDIT
-The overall purpose of this election audit analysis is to help the Colorado Board of Elections determine key metrics for the completed elections. The purpose of this challenge is to provide the election commission with additional data to complete the audit. The additional data needed includes: the voter turnout for each county, percentage of votes from each county out of the total count, the county with the highest turnout. In this project, we run scripts to determine the following:
+The overall purpose of this election audit analysis is to help the Colorado Board of Elections determine key metrics for the completed elections. The objective of this challenge is to provide the election commission with additional data to complete the audit. The additional data requested includes: the voter turnout for each county, percentage of votes from each county out of the total count, the county with the highest turnout. In this project, we run scripts to determine the following:
 
 1. The total votes in the election
 2. Each candidate’s total votes and percentage of votes
@@ -12,7 +12,7 @@ The overall purpose of this election audit analysis is to help the Colorado Boar
 
 
 ## ELECTION AUDIT RESULTS
-Some important metrics identified in this election audit analysis are listed and analyzed below, with an image showing a summary of all discussed results displayed as well:
+Some important metrics identified in this election audit analysis are listed and analyzed below, with an image showing a summary of all discussed results displayed:
 
 	◦	A total of 369,711 votes were cast in the election.
 	◦	The breakdown of results by county showing the number of votes, and percentage of votes for each county are listed below:
@@ -30,7 +30,7 @@ Some important metrics identified in this election audit analysis are listed and
 
 
 ## ELECTION AUDIT SUMMARY
-Writing a script to show the voter turnout by county including candidate results is a great way to modify and use this script as a blueprint for future elections. This script provides the perfect blueprint to run similar analysis for other district, state, or even federal elections. For example, modifying the variables to identify ’state’ or ‘country’ as applicable can run analyses on different datasets intending to achieve the same insights.
+Writing a script to show the voter turnout by county including candidate results is a great way to set up this script as a blueprint for future elections. This script provides the perfect blueprint to run similar analysis for other district, state, or even federal elections. For example, modifying the variables to identify ’state’ or ‘country’ as applicable can run analyses on different datasets hoping to achieve similar insights.
 
 One way this script can be modified to be used for other elections is to write a script to determine what percentage of voters in each county voted for each candidate. An if statement could be added to the script to achieve this result. A second way this script can be modified for use in other elections is to delve deeper into county turnout performance to analyze how voters in all (or the winning) counties voted by congress or district. We could even find the highest number of votes for different filters other than by candidate or county. Other characteristics like demographics (age) of voters could be introduced to get other results with similar insights.
 
